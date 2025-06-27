@@ -69,4 +69,5 @@ If you utilize this code for your study, please cite our paper. Bibtex format is
 
 ---
 ### Acknowledgements
-This work was supported by grants from the Institute of Information \& Communications Technology Planning \& Evaluation (IITP)—specifically, the Artificial Intelligence Graduate School Program at Korea University (No. RS-2019-II190079), the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. RS-2023-00212498, RS-2024-00415812), and the MSIT(Ministry of Science and ICT), Korea, under the ITRC(Information Technology Research Center) support program (IITP-2025-RS-2024-00436857) supervised by the IITP (Institute for Information \& Communications Technology Planning \& Evaluation).
+This work was supported by grants from 
+the Institute of Information & Communications Technology Planning & Evaluation (IITP)—specifically, the Artificial Intelligence Graduate School Program at Korea University (No. RS-2019-II190079), the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. RS-2023-00212498, RS-2024-00415812), the MSIT under the ITRC (Information Technology Research Center) support program (IITP-2025-RS-2024-00436857) supervised by the IITP, and IITP grant funded by MSIT (No. RS-2024-00457882, Artificial Intelligence Research Hub Project).
